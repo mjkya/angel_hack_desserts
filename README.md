@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="340" height="120" src="https://github.com/mjkya/angel_hack_desserts/blob/master/img/desserts_img.jpg">
+</p>
+
 <details><summary>List</summary>
 <p>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
