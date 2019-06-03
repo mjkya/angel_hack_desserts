@@ -7,7 +7,7 @@ AngelHackathon 2019 Amazon Web Service Challenge 우승작
 </p>
 
 <p align="center">
-  <img width="850" height="450" src="https://github.com/mjkya/angel_hack_desserts/blob/master/img/KakaoTalk_Photo_2019-06-03-16-19-44.jpeg">
+  <img width="700" height="500" src="https://github.com/mjkya/angel_hack_desserts/blob/master/img/KakaoTalk_Photo_2019-06-03-16-19-44.jpeg">
 </p>
 
 <details><summary>List</summary>
