@@ -1,4 +1,4 @@
-AngelHackathon 2019 Amazon AWS Challenge 우승작
+AngelHackathon 2019 Amazon Web Service Challenge 우승작
 
 우울증 환자들을 위한 감정 트레킹 서비스 Desserts
 
