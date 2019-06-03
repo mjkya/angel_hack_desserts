@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="340" height="120" src="https://github.com/mjkya/angel_hack_desserts/blob/master/img/desserts_img.jpg">
+  <img width="800" height="500" src="https://github.com/mjkya/angel_hack_desserts/blob/master/img/desserts_img.jpg">
 </p>
 
 <details><summary>List</summary>
